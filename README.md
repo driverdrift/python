@@ -1,4 +1,4 @@
-[Python style guide](https://google.github.io/styleguide/pyguide.html)
+[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 [Source code](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 
